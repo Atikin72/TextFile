@@ -2,6 +2,8 @@ Hello World!
 
 Начинаем наше знкомство с контролем версий.
 
+*Курсив*
+
 Hfp 
     wrpkkr[qkrqw[pkrqp
     ]]
