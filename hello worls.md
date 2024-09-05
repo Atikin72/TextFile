@@ -6,6 +6,10 @@ Hello World!
 
 **Gjke;bhysq**
 
+* Элемент1
+* Элемент2
+* Эемент3
+
 Hfp 
     wrpkkr[qkrqw[pkrqp
     ]]
